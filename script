@@ -1,0 +1,36 @@
+if game.PlaceId == 2788229376 then -- DaHood    
+loadstring(game:HttpGet("https://pastebin.com/raw/UyYfkkSb"))();
+
+elseif game.PlaceId == 2753915549 or game.placeId == 7449423635 or game.placeId == 4442272183 then -- Blox Fruits  
+loadstring(game:HttpGet("https://pastebin.com/raw/iNx3zYv9"))();
+
+elseif game.PlaceId == 3233893879 then -- Bad Business
+loadstring(game:HttpGet("https://pastebin.com/raw/4ZRg7WhN"))();
+
+elseif game.PlaceId == 286090429 then -- Arsenal
+loadstring(game:HttpGet("https://pastebin.com/raw/6KakVS85"))();
+
+elseif game.PlaceId == 9872472334 then -- Evade
+loadstring(game:HttpGet("https://pastebin.com/raw/pg15Fm6b"))();
+
+elseif game.PlaceId == 4282985734 then -- Combat Warriors
+loadstring(game:HttpGet("https://pastebin.com/raw/yjdthfuE"))();
+
+elseif game.PlaceId == 292439477 then -- Phantom Forces
+loadstring(game:HttpGet("https://pastebin.com/raw/gUn4LxcF"))();
+
+elseif game.PlaceId == 4996049426 then -- ASTD
+loadstring(game:HttpGet("https://pastebin.com/raw/NUR1daVq"))();
+
+elseif game.PlaceId == 6872265039 then -- Bedwars
+loadstring(game:HttpGet("https://pastebin.com/raw/zVy01DXv"))();
+
+elseif game.PlaceId == 9417197334 then -- Anime Story
+loadstring(game:HttpGet("https://pastebin.com/raw/vEm3FAaF"))();
+
+elseif game.PlaceId == 606849621 then -- JailBreak
+loadstring(game:HttpGet("https://pastebin.com/raw/SndHp31U"))();
+
+elseif game.PlaceId == 6678877691 then -- Zo-ぞ
+loadstring(game:HttpGet("https://pastebin.com/raw/spayEG5Y"))();
+end
