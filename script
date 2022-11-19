@@ -25,8 +25,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/izerxo/Palmware/main/
 elseif game.PlaceId == 6872265039 then -- Bedwars
 loadstring(game:HttpGet("https://raw.githubusercontent.com/izerxo/Palmware/main/Bedwars"))();
 
-elseif game.PlaceId == 9417197334 then -- Anime Story
-loadstring(game:HttpGet("https://raw.githubusercontent.com/izerxo/Palmware/main/Anime%20Story"))();
+elseif game.PlaceId == 9417197334 then -- AnimeStory
+loadstring(game:HttpGet("https://raw.githubusercontent.com/izerxo/Palmware/main/AnimeStory"))();
 
 elseif game.PlaceId == 606849621 then -- JailBreak
 loadstring(game:HttpGet("https://raw.githubusercontent.com/izerxo/Palmware/main/Jailbreak"))();
