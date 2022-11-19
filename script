@@ -1,36 +1,36 @@
 if game.PlaceId == 2788229376 then -- DaHood    
-loadstring(game:HttpGet("https://pastebin.com/raw/UyYfkkSb"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/izerxo/Palmware/main/DaHood"))();
 
 elseif game.PlaceId == 2753915549 or game.placeId == 7449423635 or game.placeId == 4442272183 then -- Blox Fruits  
-loadstring(game:HttpGet("https://pastebin.com/raw/iNx3zYv9"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/izerxo/Palmware/main/Blox%20Fruits"))();
 
 elseif game.PlaceId == 3233893879 then -- Bad Business
-loadstring(game:HttpGet("https://pastebin.com/raw/4ZRg7WhN"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/izerxo/Palmware/main/Bad%20Business"))();
 
 elseif game.PlaceId == 286090429 then -- Arsenal
-loadstring(game:HttpGet("https://pastebin.com/raw/6KakVS85"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/izerxo/Palmware/main/Arsenal"))();
 
 elseif game.PlaceId == 9872472334 then -- Evade
-loadstring(game:HttpGet("https://pastebin.com/raw/pg15Fm6b"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/izerxo/Palmware/main/Evade"))();
 
 elseif game.PlaceId == 4282985734 then -- Combat Warriors
-loadstring(game:HttpGet("https://pastebin.com/raw/yjdthfuE"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/izerxo/Palmware/main/Combat%20Warriors"))();
 
 elseif game.PlaceId == 292439477 then -- Phantom Forces
-loadstring(game:HttpGet("https://pastebin.com/raw/gUn4LxcF"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/izerxo/Palmware/main/Phantom%20Forces"))();
 
 elseif game.PlaceId == 4996049426 then -- ASTD
-loadstring(game:HttpGet("https://pastebin.com/raw/NUR1daVq"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/izerxo/Palmware/main/ASTD"))();
 
 elseif game.PlaceId == 6872265039 then -- Bedwars
-loadstring(game:HttpGet("https://pastebin.com/raw/zVy01DXv"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/izerxo/Palmware/main/Bedwars"))();
 
 elseif game.PlaceId == 9417197334 then -- Anime Story
-loadstring(game:HttpGet("https://pastebin.com/raw/vEm3FAaF"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/izerxo/Palmware/main/Anime%20Story"))();
 
 elseif game.PlaceId == 606849621 then -- JailBreak
-loadstring(game:HttpGet("https://pastebin.com/raw/SndHp31U"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/izerxo/Palmware/main/Jailbreak"))();
 
 elseif game.PlaceId == 6678877691 then -- Zo-ぞ
-loadstring(game:HttpGet("https://pastebin.com/raw/spayEG5Y"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/izerxo/Palmware/main/Zo-%E3%81%9E"))();
 end
