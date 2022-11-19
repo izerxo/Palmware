@@ -4,8 +4,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/izerxo/Palmware/main/
 elseif game.PlaceId == 2753915549 or game.placeId == 7449423635 or game.placeId == 4442272183 then -- Blox Fruits  
 loadstring(game:HttpGet("https://raw.githubusercontent.com/izerxo/Palmware/main/Blox%20Fruits"))();
 
-elseif game.PlaceId == 3233893879 then -- Bad Business
-loadstring(game:HttpGet("https://raw.githubusercontent.com/izerxo/Palmware/main/Bad%20Business"))();
+--bad business broken right now
 
 elseif game.PlaceId == 286090429 then -- Arsenal
 loadstring(game:HttpGet("https://raw.githubusercontent.com/izerxo/Palmware/main/Arsenal"))();
