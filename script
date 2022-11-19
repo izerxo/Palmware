@@ -31,6 +31,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/izerxo/Palmware/main/
 elseif game.PlaceId == 606849621 then -- JailBreak
 loadstring(game:HttpGet("https://raw.githubusercontent.com/izerxo/Palmware/main/Jailbreak"))();
 
-elseif game.PlaceId == 6678877691 then -- Zo-ぞ
-loadstring(game:HttpGet("https://raw.githubusercontent.com/izerxo/Palmware/main/Zo-%E3%81%9E"))();
+elseif game.PlaceId == 6678877691 then -- Zo
+loadstring(game:HttpGet("https://raw.githubusercontent.com/izerxo/Palmware/main/Zo"))();
 end
